@@ -1,0 +1,52 @@
+button{
+    width: 150px;
+    height: 40px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+header{
+    margin-left: 930px;
+    
+}
+.bouton{
+    margin-top: 145px;
+    margin-left: 290px;
+}
+.boutonbis{
+    margin-top: 30px;
+    margin-left: 290px;
+}
+.prenom{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    margin-left: 30px;
+}
+.nom{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    margin-left: 380px;
+}
+.naissance{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    margin-left: 30px;
+}
+
+.container{
+    width:500px;
+    height:300px;
+    margin-top: 100px;
+    margin-left: 500px;
+    border-width:1px;
+    border-style:solid;
+    border-color:black;
+    
+    
+}
+.footer{
+    width: 500px;
+    height: 100px;
+    margin-left: 500px;
+    margin-top: 80px;
+    background-color: lightseagreen;
+}
